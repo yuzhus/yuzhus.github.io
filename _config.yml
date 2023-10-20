@@ -16,7 +16,6 @@ header:
     - name: Research
     - name: Publications
     - name: Teaching
-    - name: Blog
 
 footer:
   show_powered_by: true
