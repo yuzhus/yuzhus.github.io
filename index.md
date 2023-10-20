@@ -14,5 +14,5 @@ profile_picture:
 </p>
 
 <p>
-View my CV <a href="https://drive.google.com/file/d/1N0llVhRVq-FHm9kKX4av5OLIAHQ3_rSZ/view?usp=share_link">here</a>.
+View my professional summary <a href="https://drive.google.com/file/d/1N0llVhRVq-FHm9kKX4av5OLIAHQ3_rSZ/view?usp=share_link">here</a>.
 </p>
