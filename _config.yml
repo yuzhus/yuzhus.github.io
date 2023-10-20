@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Yuzhu Sun
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  Yuzhu Sun github pages.
 baseurl: "" # the subpath of the site
 url: "https://yuzhus.github.io/" # the base hostname & protocol for the site
 og_image: /assets/img/yuzhu.jpg
@@ -13,32 +13,23 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
+    - name: Research
+    - name: Publications
+    - name: Teaching
     - name: Blog
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: ysun32@qub.ac.uk
+      link: mailto:ysun32@qub.ac.uk
+
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/yuzhu-sun-a8403b285
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/yuzhus
 
 # Build settings
 markdown: kramdown
