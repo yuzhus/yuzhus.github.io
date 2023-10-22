@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hello! I am a third-year PhD student in the EEECS Department at Queen's University Belfast (QUB), under the guidance of <a href="https://sites.google.com/view/mienvan/?pli=1">Dr. Mien Van</a> and <a href="https://pure.qub.ac.uk/en/persons/se%C3%A1n-mcloone">Prof. Sean McLoone</a>. My research interests mostly lies in the control theory and machine learning for human-robot interaction/collaboration.
+  Hello! I am a third-year PhD student in the <a href="https://www.qub.ac.uk/schools/eeecs/">EEECS</a> Department at Queen's University Belfast (QUB), under the guidance of <a href="https://sites.google.com/view/mienvan/?pli=1">Dr. Mien Van</a> and <a href="https://pure.qub.ac.uk/en/persons/se%C3%A1n-mcloone">Prof. Sean McLoone</a>. My research interests mostly lies in the control theory and machine learning for human-robot interaction/collaboration.
 </p>
 
 <p>
