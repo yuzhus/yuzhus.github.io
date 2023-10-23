@@ -20,5 +20,5 @@ View my professional summary <a href="https://drive.google.com/file/d/1-6LxGZ3A9
 <br />
 <br />
 <p>
-<strong>News</strong>:
+<!-- <strong>News</strong>: -->
 </p>
