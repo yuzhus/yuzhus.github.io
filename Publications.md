@@ -1,7 +1,7 @@
 ---
 layout: research
 title: Publications
-slug: /publications
+slug: //publications
 
 ---
 <p>M. Van, <strong>Y. Sun</strong>, S. McIlvanna, M. N. Nguyen, M. O. Khyam and D. Ceglarek, "Adaptive Fuzzy Fault Tolerant Control for Robot Manipulators with Fixed-Time Convergence," IEEE Transactions on Fuzzy Systems, pp. 3210-3219, 2023.</p>
@@ -15,5 +15,6 @@ slug: /publications
 <p>S. McIlvanna, M. Van, <strong>Y. Sun</strong>, W. Naeem, Z. Liu, "Adaptive Fixed-Time Control for Uncertain Surface Vessels with Output Constraints," submitted to Ocean Engineering (Under Review).</p>
 <p>L. Crosato,  <strong>Y. Sun</strong>, H. P. H. Shum, E. S. L. Ho and Chongfeng Wei, "A Virtual Reality Framework for Human-Driver Interaction Research: Safe and Cost-Effective Data Collection," submitted to the 19th Annual Conference on Human-Robot Interaction (Under Review).</p>
 <p>M. Dang, C. Wei, L. Crosato, <strong>Y. Sun</strong>, "Coupling Intention and Actions of Vehicle-Pedestrian Interaction: A Virtual Reality Experiment Study," submitted to Accident Analysis & Prevention (Under Review).</p>
+<p>J. Close, M. Van, N. M. Nhat, S. McIlvanna, <strong>Y. Sun</strong> K. Olayemi, Chongfeng Wei, "A Unified NMPC-CBF Approach to Kino-Dynamic, Collision-Avoidant Trajectory Tracking of Autonomous Underwater Vehicles," submitted to the IEEE Transactions on Systems, Man and Cybernetics: Systems. (Under Review).</p>
 <br />
 <br />
