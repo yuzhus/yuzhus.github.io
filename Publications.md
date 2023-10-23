@@ -1,7 +1,7 @@
 ---
 layout: research
 title: Publications
-slug: /publications
+permalink: /publications
 
 ---
 <p>M. Van, <strong>Y. Sun</strong>, S. McIlvanna, M. N. Nguyen, M. O. Khyam and D. Ceglarek, "Adaptive Fuzzy Fault Tolerant Control for Robot Manipulators with Fixed-Time Convergence," IEEE Transactions on Fuzzy Systems, pp. 3210-3219, 2023.</p>

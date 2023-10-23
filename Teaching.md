@@ -1,7 +1,7 @@
 ---
 layout: research
 title: Teaching
-slug: /teaching
+permalink: /teaching
 
 ---
 <p>At Queen's, I am serving as a demonstrator for Electronical Engineering (ELE1056), and a teaching assistant for Robotics and Intelligent Systems (ELE4024).</p>
