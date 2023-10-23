@@ -5,7 +5,7 @@ title: Yuzhu Sun
 description: >- # this means to ignore newlines until "baseurl:"
   Yuzhu Sun github pages.
 baseurl: "" # the subpath of the site
-url: "https://yuzhus.github.io/" # the base hostname & protocol for the site
+url: "https://yuzhus.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/yuzhu.jpg
 google_analytics: "UA-121636368-3"
 
@@ -14,8 +14,11 @@ header:
     - name: Home
       slug: /
     - name: Research
+      slug: /research
     - name: Publications
+      slug: /publications
     - name: Teaching
+      slug: /teaching
 
 footer:
   show_powered_by: true

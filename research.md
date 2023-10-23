@@ -1,7 +1,7 @@
 ---
 layout: research
 title: Research
-slug: /work
+slug: /research
 items:
   - title: Digital Twin-Driven Safety-Critical Physical Human-Robot Collaboration (In progress)
     image:
