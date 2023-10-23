@@ -16,3 +16,9 @@ profile_picture:
 <p>
 View my professional summary <a href="https://drive.google.com/file/d/1-6LxGZ3A9eXdzcWSkCZqQlgaXuFbiKIc/view?usp=share_link">here</a>.
 </p>
+<br />
+<br />
+<br />
+<p>
+<strong>News</strong>:
+</p>
