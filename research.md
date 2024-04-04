@@ -26,7 +26,11 @@ items:
       src: /assets/img/work/sand.png
       alt: sand
     description: This work proposes a novel fixed-time integral sliding mode control for admittance control to enhance physical human-robot collaboration. The proposed method combines the benefits of compliance to external forces of admittance control and high robustness to uncertainties of integral sliding mode control (ISMC), such that the system can collaborate with a human partner in an uncertain environment effectively.
+
 ---
 <p>General research interests: <strong>robotics, human-robot interaction/collaboration, control theory, reinforcement learning and digital twin.</strong></p>
-<br />
+<iframe width="620" height="315"
+src="https://www.youtube.com/embed/CMgg1rwiUTo?si=3rTHkySxwm51rZd9o">
+</iframe>
+
 <br />

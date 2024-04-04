@@ -19,6 +19,8 @@ header:
       slug: /publications
     - name: Teaching
       slug: /teaching
+    - name: Photography
+      slug: /post
 
 footer:
   show_powered_by: true
