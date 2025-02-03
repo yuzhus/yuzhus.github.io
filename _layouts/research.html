@@ -23,6 +23,12 @@
               &mdash;
               {{ item.description }}
             </span>
+
+            {% if item.video %}
+            <div class="video-container">
+              <iframe width="650" height="315" src="{{ item.video }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+            {% endif %}
           </div>
           {% endfor %}
         </div>
@@ -34,3 +40,4 @@
     {% include foot.html %}
   </body>
 </html>
+

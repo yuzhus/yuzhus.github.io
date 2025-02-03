@@ -3,12 +3,20 @@ layout: research
 title: Research
 permalink: /research
 items:
-  - title: Digital Twin-Driven Safety-Critical Physical Human-Robot Collaboration (In progress)
+  - title: Offshore Wind Turbine Blade Monitoring Using Computer Vision and AI (In progress)
+    image:
+      src: /assets/img/work/drone2.jpg
+      alt: drone
+    description: Traditional wind turbine inspections require skilled technicians to physically access turbine blades, which is time-consuming and labour-intensive. This project aims to develop a fully customised autonomous drone specifically designed for internal inspection and navigation within confined, low-light and GPS-denied environments - wind turbine blades. This drone will be equipped with multiple sensors and Jetson, enabling it to to perform SLAM and navigate autonomously.
+
+  - title: Reinforcement Learning and Digital Twin-Driven Robot Obstacle Avoidance
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: With a focus on safety and compliance, this study seeks to test the hypothesis "an RL agent can conduct collision-free human-robot collaborative tasks while demonstrating compliant behaviour when they identify human collaborative intentions through the visual and force observation". To achieve this goal, this project built a digital twin and train an end-to-end RL model for human-robot collaborative tasks.
-
+    description: Robots are often required to be re-programmed when facing a more demanding task or even a few changes in workspace conditions.
+      To increase efficiency and reduce human effort, this work explores the potential of using digital twins combined with RL to help robots adapt to new environments. Human demonstrations are integrated into the training process through a dual actor framework. Such a human-in-the-loop online training framework enables the robot to adjust to changes effciently. 
+    video: https://www.youtube.com/embed/pn2uJ113oG8?si=63OPdyeBH0JIK0Hl
+    
   - title: Adaptive Admittance Control Based on Control Barrier Functions
     image:
       src: /assets/img/work/sun.png
@@ -28,9 +36,7 @@ items:
     description: This work proposes a novel fixed-time integral sliding mode control for admittance control to enhance physical human-robot collaboration. The proposed method combines the benefits of compliance to external forces of admittance control and high robustness to uncertainties of integral sliding mode control (ISMC), such that the system can collaborate with a human partner in an uncertain environment effectively.
 
 ---
-<p>General research interests: <strong>robotics, human-robot interaction/collaboration, control theory, reinforcement learning and digital twin.</strong></p>
-<iframe width="620" height="315"
-src="https://www.youtube.com/embed/CMgg1rwiUTo?si=3rTHkySxwm51rZd9o">
-</iframe>
+
+<p>General research interests: <strong>UAV, robotics, human-robot interaction/collaboration, control theory, reinforcement learning and digital twin.</strong></p>
 
 <br />
