@@ -13,7 +13,7 @@ I recently completed my PhD at QUB under the supervision of <a href="https://sit
 </p>
 
 <p>
-View my academic summary <a href="https://drive.google.com/file/d/1cOe9S_q-_Xvo9T_HG2gD8Usk2qSIpKy6/view?usp=drive_link">here</a>.
+View my academic summary <a href="https://drive.google.com/file/d/1HWIC-0CTgnj2HuTtlzxfcjZOoWdULzOu/view?usp=drive_link">here</a>.
 </p>
 <br />
 <br />
