@@ -27,7 +27,8 @@ permalink: /post
 <br />
 <img src="/assets/img/8.jpg" alt="Italian Trulli"  width="285">
 <img src="/assets/img/9.jpg" alt="Italian Trulli"  width="309">
-
-
+<br />
+<br />
+<img src="/assets/img/14.jpg" alt="Italian Trulli"  width="600">
 <br />
 <br />
